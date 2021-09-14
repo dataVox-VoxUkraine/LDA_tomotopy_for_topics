@@ -19,6 +19,7 @@ glavcom
 вголос
 vgolos
 главком
+znaj
 интерфакс
 корреспондент
 politeka
